@@ -1,5 +1,5 @@
 # Flutter
-Flutter application for Start-up 
+Flutter applications.
 Currently I'm creating an e-commerce app completely,it will be here in march.
 
 
